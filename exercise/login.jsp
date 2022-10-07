@@ -15,7 +15,7 @@
 	<center>
 		<h1>주류마을</h1>
 		<hr>
-		<form action="2_setProduct.jsp" method="post">
+		<form action="setProduct.jsp" method="post">
 			<h3>로그인 화면</h3>
 			<!-- required 입력 하지 않으면 넘어 가지 않는다 -->
 			<input type="text" required name="name1"> <input
