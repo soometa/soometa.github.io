@@ -27,7 +27,7 @@
 		<!-- select으로 선택 창을 만든다 -->
 		<!-- form으로  -->
 		<h1>주류 추가 하기</h1>
-		<form action="3_add.jsp" method="post">
+		<form action="add.jsp" method="post">
 			<select name="productName">
 
 				<option value="시원C1">시원C1</option>
