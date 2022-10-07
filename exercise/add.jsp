@@ -10,7 +10,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>저장 공간에 담아주기</title>
 </head>
-<form action="4_checkout.jsp">
+<form action="checkout.jsp">
 
 	<body>
 
