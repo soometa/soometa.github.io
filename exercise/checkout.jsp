@@ -32,7 +32,7 @@
 		<hr>
 		<!-- 세션을 삭제 할수있는 코드가 있는데로 넘어 가는 코드 -->
 		<!-- 이 코드를 만든이유 -->
-		<form action="5delete.jsp">
+		<form action="delete.html">
 			<input type="submit" value="로그아웃" name="longout"
 				onclick="window.location.reload()"> <a
 				href="javascript:history.back()">뒤로 가기</a>
