@@ -1,1 +1,0 @@
-# soometa.github.io
